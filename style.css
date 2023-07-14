@@ -1,0 +1,16 @@
+body {
+   background-image: linear-gradient( lightpink,lightsalmon,lightcoral,lightblue,lightskyblue,lightgreen,lime,limegreen,lightseagreen );
+}
+canvas{
+   border: 10px solid black;
+}
+hr{
+   color: darkblue;
+   width: 60%;
+}
+
+#filter_btn{
+   background-color: rgb(86, 188, 251);
+   color: rgb(7, 137, 0);
+   font-size: 15px;
+}
